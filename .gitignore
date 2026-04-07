@@ -1,0 +1,20 @@
+# Python .gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Config files
+.env
+
+# Virtual Environment
+venv/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Installer directories
+*.egg-info/
+dist/
+build/
